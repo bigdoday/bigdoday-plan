@@ -1,0 +1,4 @@
+Rencana bulan September 2020
+- Membuat POS system
+- Membuat System Pencatat Keuangan
+- Membuat Dashboard
